@@ -1,5 +1,5 @@
 ### Introduction
-**DoInsta** offers you to download photo, video & igtv from **Instagram** with one click developed by **Gentrit Abazi** using the HTML/JavaScript.
+**DoInsta** offers you to download photo, video & igtv from **Instagram** with one click developed using the HTML/JavaScript.
 
 ### ScreenShot
 ![ScreenShot](https://i.imgur.com/5VMypfr.gif)
