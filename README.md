@@ -14,4 +14,3 @@ https://doinsta.netlify.app/
 ### Author
 * Name: **Gentrit Abazi**
 * Email: **gentritabazi01@gmail.com**
-* GitHub: **https://github.com/gentritabazi01**
