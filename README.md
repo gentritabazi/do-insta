@@ -1,8 +1,8 @@
 ### Introduction
 **DoInsta** offers you to download photo, video & igtv from **Instagram** with one click developed using the HTML/JavaScript.
 
-### ScreenShot
-![ScreenShot](https://i.imgur.com/5VMypfr.gif)
+### Gif
+![Gif](https://i.imgur.com/EL8l3Xm.gif)
 
 ### Demo
 https://doinsta.netlify.app/
